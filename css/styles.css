@@ -88,11 +88,13 @@ button{
     height: 100%;
     width: 100%;
     justify-content: center;
-    align-items: end;
+    align-items: center;
 }
 #logo-download-page{
     display: none;
     position: fixed;
+    top: 30px;
+    left: 30px;
 }
 #qrcode-circle-background{
 
@@ -109,8 +111,8 @@ button{
 }
 #qrcode-square-background{
 
-    width:280px;
-    height:300px;
+    width:290px;
+    height:290px;
     border-radius:40px;
     background:#F2F5F9;
     position: fixed;
@@ -125,4 +127,15 @@ button{
     top: 50%; 
     left: 50%; 
     transform: translate(-50%, -50%); 
+}
+#dual-button{
+    display: flex;
+    padding-top: 400px;
+}
+#download-button{
+    width: 180px;
+}
+#share-button{
+    margin-left: 30px;
+    width: 160px;
 }
