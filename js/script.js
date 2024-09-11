@@ -66,3 +66,7 @@ async function copyPicture() {
       console.error(err.name, err.message);
     }
   };
+
+  logo_download_page.addEventListener('click', function() {
+    location.reload(); 
+});
