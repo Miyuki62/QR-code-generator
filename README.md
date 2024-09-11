@@ -13,7 +13,7 @@ Il utilise les langages suivants :
 
 Vous pouvez utiliser le projet en visitant la [GitHub Page](https://miyuki62.github.io/QR-code-generator/).
 
-Il est nécessaire de rafraîchir la page pour générer un nouveau code QR ou de cliquer sur le logo.
+Il est nécessaire de cliquer sur le logo du site ou de rafraîchir la page pour générer un nouveau code QR.
 
 ### Installation
 
@@ -36,7 +36,7 @@ It uses the following technologies:
 
 You can view and use the project by visiting the [GitHub Page](https://miyuki62.github.io/QR-code-generator/).
 
-Please note, you need to refresh the page to generate a new QR code or click on the logo.
+Please note, you need to click on the logo or refresh the page to generate a new QR code.
 
 ### Installation
 
